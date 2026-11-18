@@ -1,0 +1,14 @@
+# Compiled binaries
+/translit
+/translit.exe
+*.exe
+
+# Test binaries and coverage output
+*.test
+*.out
+
+# OS and editor cruft
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
